@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node server.ts",
     "dev": "nodemon server.ts",
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "jest": {
     "testEnvironment": "node"
