@@ -21,5 +21,5 @@ This project implements a simple REST API server that interfaces with Fillout.co
 
    ```sh
    git clone https://github.com/jastech2011/Test.git
-   cd fillout_api_server
+   cd test
    ```
