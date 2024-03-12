@@ -2,10 +2,10 @@
   "name": "fillout-api-project",
   "version": "1.0.0",
   "description": "A REST API server to fetch and filter form responses from Fillout.com",
-  "main": "server.ts",
+  "main": "/src/server.ts",
   "scripts": {
     "start": "node dist/server.js",
-    "dev": "nodemon server.ts",
+    "dev": "nodemon src/server.ts",
     "test": "jest",
     "build": "tsc"
   },
